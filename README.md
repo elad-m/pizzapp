@@ -1,7 +1,7 @@
 # Pizzapp
 Pizzapp helps you to order customized pizza!
 
-![Example](https://drive.google.com/file/d/1-9O84ZZMg7Eg-PIf0PV5MvRltBnQ3wsM/view?usp=sharing)
+![Example](https://github.com/elad-m/pizzapp/blob/master/pizzapp.gif)
 
 
 
